@@ -1,0 +1,5 @@
+10 executions of TravelPlanProcessXOR in 100.0 seconds
+2 executions: StartEvent_1 => TaskFlight
+2 executions: StartEvent_1 => TaskFlight => TaskCar
+2 executions: StartEvent_1 => TaskFlight => TaskHotel
+4 executions: StartEvent_1 => TaskFlight => TaskHotel => TaskCar
